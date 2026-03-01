@@ -2,7 +2,7 @@
 
 *A real-time stock market simulation game built with Python, Pygame, and Matplotlib. Experience the thrill of the market with dynamic price movements, technical indicators, and portfolio management.
 
-*![Link to the game](https://cluster.itch.io/stonk-trader)
+*[Link to the game](https://cluster.itch.io/stonk-trader)
 
 ## Features
 
