@@ -49,6 +49,3 @@
 *   **Pygame:** Handles the game loop, rendering, and user input.
 *   **Matplotlib:** Generates the financial charts, which are converted to Pygame surfaces for display.
 *   **Asyncio:** Used for the main loop to ensure compatibility with web-based Python environments (like Pyodide).
-
-## License
-MIT
